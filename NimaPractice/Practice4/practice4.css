@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+table,tr,td{
+    border: black 1px solid;
+    border-collapse: collapse;
+    font-size: 70px;
+}
+tr:nth-child(odd){
+    background-color: greenyellow;
+}
+tr:nth-child(even){
+    background-color: springgreen;
+}
+td:hover{
+    background-color: gold;
+}
+tr:hover{
+    background-color: red;
+}
