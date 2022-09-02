@@ -10,7 +10,7 @@ for example :
 
 >>> running NP3-Lottery
 
-NP3-lottery V1.0 running...
+NP3-lottery V1.1 running...
 
 to use app you must add a list of members
 after that you will receive a winner list
